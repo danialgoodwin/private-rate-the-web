@@ -7,6 +7,7 @@ Created for myself, may be helpful for others too.
 - Mark webpages as read and optionally rate them too.
 
 Maybe eventual features:
+- Ability to export data
 - Ability to add notes to pages
 - Ability to see average rating of page from all recent users (1 year?), definitely anonymized information
 - Ability to see similar pages that people have liked? Meh
