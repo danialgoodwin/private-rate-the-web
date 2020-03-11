@@ -12,11 +12,16 @@ Maybe eventual features:
 - Ability to flag/report pages for the community?
     - Maybe record clicks that are cancelled? Reason: User may not know for sure, but admin could double-check
 - Ability to export data
+- Ability to add tags (because sometimes a general search isn't good enough)
 - Ability to add notes to pages
 - Ability to see average rating of page from all recent users (1 year?), definitely anonymized information
 - Ability to see similar pages that people have liked? Meh
 
-
+Note:
+- Seems like this could eventually be a replacement for bookmarks in general
+- Eventually, maybe the ability to share read+ratings of certain tags/labels. Real time is especially useful for multiple people researching at the same time (ish). 
+- Web notes could be shared too maybe
+    - Hmmmm, is this turning into an academic social network?
 
 
 ## Other
